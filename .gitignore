@@ -1,0 +1,11 @@
+#Files
+#.exe
+*exe
+
+#Directories
+#binarys
+bin/
+
+#objects
+obj/
+
