@@ -1,9 +1,0 @@
-C:\Users\HIBIKI\source\IPMSM_Simulator\bin\Debug\IPMSM_Simulator.exe.config
-C:\Users\HIBIKI\source\IPMSM_Simulator\bin\Debug\IPMSM_Simulator.exe
-C:\Users\HIBIKI\source\IPMSM_Simulator\bin\Debug\IPMSM_Simulator.pdb
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.csprojAssemblyReference.cache
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.Properties.Resources.resources
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.csproj.GenerateResource.cache
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.exe
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.pdb
-C:\Users\HIBIKI\source\IPMSM_Simulator\obj\Debug\IPMSM_Simulator.Form1.resources
